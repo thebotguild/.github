@@ -1,4 +1,4 @@
-# Hello there, fellow hunman
+# Hello there, fellow human
 Welcome to our guild! We're pleased with your visit.
 
 ## The guidelines
