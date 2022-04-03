@@ -1,2 +1,2 @@
 # .github
-Default health and template files.
+Guild roadmap & health files.
