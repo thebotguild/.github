@@ -9,9 +9,9 @@ We are still working in the main guidelines for our members, but surely it can r
 
 ## [The roBot Laws](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)
 - Zeroth Law: A **roBot** may not harm humanity, or, by inaction, allow humanity to come to harm.
-- First Law : A **roBot** may not injure a human being or, through inaction, allow a human being to come to harm.
+- First Law: A **roBot** may not injure a human being or, through inaction, allow a human being to come to harm.
 - Second Law: A **roBot** must obey the orders given it by human beings except where such orders would conflict with the First Law.
-- Third Law : A **roBot** must protect its own existence as long as such protection does not conflict with the First or Second Law.
+- Third Law: A **roBot** must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
 ## The network
 We will be releasing a #discord server in order to achieve most of that premises.
